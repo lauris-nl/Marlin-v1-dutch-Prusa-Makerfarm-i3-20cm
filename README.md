@@ -1,9 +1,9 @@
 Under construction do not use this github! (lauris)
 ===================================================
 
-=====================================
-Marlin v1 3D Printer Firmware (dutch)
-=====================================
+============================================================
+Marlin v1 3D Printer Firmware for makerfarm prusa i3 (dutch)
+============================================================
 Marlin has a GPL license because I believe in open development.
 Please do not use this code in products (3D printers, CNC etc) that are closed source or are crippled by a patent.
 
